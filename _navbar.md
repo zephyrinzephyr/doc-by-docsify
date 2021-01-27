@@ -1,5 +1,6 @@
 <!-- 导航栏定义 -->
 - [En](/)
+- [🇨🇳](zh-CN)
 - [:cn:](zh-CN)
 - Getting started
   - [Quick start](quickstart.md)
